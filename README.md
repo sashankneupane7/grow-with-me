@@ -1,9 +1,8 @@
 # A curated list of resources I have exploited so far (and the ones I am currently going through)
 
 :hourglass: represents the ones I am focused more on 
-
-
-
+## 41 % has been learnt from this list.
+<b>`5`</b> completed || <b>`7`</b> remaining
 
 <img src="https://img.shields.io/github/last-commit/sashankneupane7/grow-with-me?label=Last%20Learned"/>
 
